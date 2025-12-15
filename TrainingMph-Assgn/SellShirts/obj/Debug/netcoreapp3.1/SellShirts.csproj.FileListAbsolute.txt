@@ -1,0 +1,13 @@
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.exe
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.deps.json
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.runtimeconfig.json
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.runtimeconfig.dev.json
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.dll
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\bin\Debug\netcoreapp3.1\SellShirts.pdb
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.AssemblyInfoInputs.cache
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.AssemblyInfo.cs
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.csproj.CoreCompileInputs.cache
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.dll
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.pdb
+C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\obj\Debug\netcoreapp3.1\SellShirts.genruntimeconfig.cache

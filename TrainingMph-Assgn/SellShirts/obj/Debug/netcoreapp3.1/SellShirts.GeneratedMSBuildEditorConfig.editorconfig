@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SellShirts
+build_property.ProjectDir = C:\Demos\C#\ConcurrentCollections\c-sharp-concurrent-collections\03\demos\Before\SellShirts\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
