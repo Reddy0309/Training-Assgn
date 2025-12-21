@@ -1,0 +1,12 @@
+C:\Demos\C#\Collections\05\demos\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.dll
+C:\Demos\C#\Collections\05\demos\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.pdb
+C:\Demos\C#\Collections\05\demos\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.AssemblyReference.cache
+C:\Demos\C#\Collections\05\demos\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.CoreCompileInputs.cache
+C:\Demos\C#\Collections\05\demos\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.dll
+C:\Demos\C#\Collections\05\demos\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.pdb
+C:\Users\rteja\Downloads\CSharp-main\CSharp-main\TourBooker_LinkedList_Implemented\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.dll
+C:\Users\rteja\Downloads\CSharp-main\CSharp-main\TourBooker_LinkedList_Implemented\TourBooker\TourBooker.Logic\bin\Debug\TourBooker.Logic.pdb
+C:\Users\rteja\Downloads\CSharp-main\CSharp-main\TourBooker_LinkedList_Implemented\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.AssemblyReference.cache
+C:\Users\rteja\Downloads\CSharp-main\CSharp-main\TourBooker_LinkedList_Implemented\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.csproj.CoreCompileInputs.cache
+C:\Users\rteja\Downloads\CSharp-main\CSharp-main\TourBooker_LinkedList_Implemented\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.dll
+C:\Users\rteja\Downloads\CSharp-main\CSharp-main\TourBooker_LinkedList_Implemented\TourBooker\TourBooker.Logic\obj\Debug\TourBooker.Logic.pdb
