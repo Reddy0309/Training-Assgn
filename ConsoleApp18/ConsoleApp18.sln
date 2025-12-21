@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDemo", "..\EFDemo\EFDemo.csproj", "{5C4380BC-43AE-46D3-8150-A54A473E96DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "..\DataAccess\DataAccess.csproj", "{B478C61F-98ED-4F65-BEB0-3ACF4D4CF79D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModels", "..\Models\DataModels.csproj", "{9682C02E-676E-4699-8251-294FD6F95EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C4380BC-43AE-46D3-8150-A54A473E96DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C4380BC-43AE-46D3-8150-A54A473E96DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C4380BC-43AE-46D3-8150-A54A473E96DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C4380BC-43AE-46D3-8150-A54A473E96DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B478C61F-98ED-4F65-BEB0-3ACF4D4CF79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B478C61F-98ED-4F65-BEB0-3ACF4D4CF79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B478C61F-98ED-4F65-BEB0-3ACF4D4CF79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B478C61F-98ED-4F65-BEB0-3ACF4D4CF79D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9682C02E-676E-4699-8251-294FD6F95EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9682C02E-676E-4699-8251-294FD6F95EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9682C02E-676E-4699-8251-294FD6F95EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9682C02E-676E-4699-8251-294FD6F95EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1ED6943-0928-4825-A6D1-D97D2D32CE81}
+	EndGlobalSection
+EndGlobal
